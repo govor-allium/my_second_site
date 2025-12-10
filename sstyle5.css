@@ -1,0 +1,45 @@
+.active {
+    background-color:  rgb(164, 197, 162);
+    border-radius: 5px;
+}
+nav ul li {
+    margin-right: 20px;   
+}
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    padding: 1px;
+    background-color:rgb(90, 122, 92)  !important;
+}
+.card-body {
+    background-color:rgb(90, 122, 92)  !important;
+}
+span {
+    color:white;
+}
+.comment {
+color:#a0b39f;
+font-size: medium;
+}
+.c {
+    background-color:black !important;
+}
+label {
+    color:#d5e1d4;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+.btn {
+            display: inline-block; 
+            padding: 7px 13px;
+            background-color: #7dac6b;
+            color: #cce6c2;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px; 
+            font-size: small;
+            margin-bottom: 5px;
+            border-color: #cce6c2;
+        }
+.btn:hover {
+     background-color:rgb(164, 197, 162);
+}
